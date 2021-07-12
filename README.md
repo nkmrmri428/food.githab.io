@@ -1,4 +1,4 @@
-# food.githab.io
+＃food.githab.io 制作中
 
 アプリ制作過程記録（きげんみる-賞味期限管理アプリ-）
 
